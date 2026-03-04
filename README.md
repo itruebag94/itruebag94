@@ -1,6 +1,6 @@
 # 👋 Hola, soy Ignacio Trueba Gandur
 
-### 📊 Economista & Data Analyst | Especialista en Big Data
+### 📊 Data Analyst | Especialista en Big Data
 
 Soy un apasionado del análisis de datos. Actualmente, estoy finalizando mi **Máster en Ingenieria de Sistemas y la Computación (Big Data y Smart Data)**, donde he desarrollado proyectos que van desde el análisis predictivo y uso de modelos de clasificación, hasta la auditoría de seguridad mediante IA. 
 
