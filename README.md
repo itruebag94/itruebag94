@@ -35,6 +35,6 @@ Busco mi **primera oportunidad profesional** como **Data Analyst** para aportar 
 ---
 
 ## 📫 ¡Conectemos!
-- **LinkedIn:** [linkedin.com/in/ignacio-trueba-gandur](https://www.linkedin.com/in/ignacio-trueba-gandur-634b4a1ba)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-trueba-gandur-634b4a1ba)
 - **Email:** [itruebagandur@gmail.com](mailto:itruebagandur@gmail.com)
 - **Ubicación:** España 🇪🇸
